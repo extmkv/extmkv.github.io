@@ -1,0 +1,5 @@
+title: My Blog
+baseurl: "" # Leave empty if using a custom domain
+url: "https://jcosta.pt"
+markdown: kramdown
+theme: minima
