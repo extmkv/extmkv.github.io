@@ -1,5 +1,13 @@
-title: My Blog
+title: ">: extmkv"
 baseurl: "" # Leave empty if using a custom domain
 url: "https://jcosta.pt"
 markdown: kramdown
 theme: minima
+minima:
+  skin: dark
+  social_links:
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/jorge-costa-pt/" }
+    - { platform: github, user_url: "https://github.com/exmtkv" }
+    - { platform: x, user_url: "https://x.com/exmtkv" }
+  header_pages:
+    - about.md
