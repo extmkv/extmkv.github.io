@@ -7,8 +7,14 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/jorge-costa-pt/" }
-    - { platform: github, user_url: "https://github.com/exmtkv" }
-    - { platform: x, user_url: "https://x.com/exmtkv" }
+    - title: GitHub
+      icon: github
+      url: "https://github.com/extmkv"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/jorge-costa-pt/"
+    - title: X
+      icon: x-twitter
+      url: "https://x.com/extmkv"
   header_pages:
     - about.md
