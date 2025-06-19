@@ -2,6 +2,12 @@ title: ">: extmkv"
 baseurl: "" # Leave empty if using a custom domain
 url: "https://jcosta.pt"
 markdown: kramdown
+author:
+  name: Jorge Costa
+  email: blog@jcosta.pt
+description: >
+  a software engineer writting bio code
+
 remote_theme: jekyll/minima
 
 minima:
