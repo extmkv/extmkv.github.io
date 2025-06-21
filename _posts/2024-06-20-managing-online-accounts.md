@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Managing online accounts"
-date: 2025-06-20
+date: 2024-06-20
 ---
 I’ve been thinking about writing this for a while, and this week’s leak of **16 billion passwords**, including Facebook and Instagram, finally pushed me to write about it.
 
