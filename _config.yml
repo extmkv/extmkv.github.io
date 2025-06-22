@@ -23,4 +23,5 @@ minima:
       icon: x-twitter
       url: "https://x.com/extmkv"
   header_pages:
+    - resume.md
     - about.md
